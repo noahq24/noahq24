@@ -2,7 +2,13 @@
 :computer: Aspiring Data Analyst
 
 **Website:**  
-[Portfolio Website](https://medium.com/@noahquezadaags)
+<a href="https://medium.com/@noahquezadaags" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" 
+  alt="Medium Badge"/>
+</a><a href="https://www.linkedin.com/in/noah-quezada-20425231a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+  alt="LinkedIn Badge"/>
+</a>
 
 ---
 👋 I'm passionate about creating projects that enhance my understanding of data analysis. Currently, I am pursuing a Bachelor's degree in Environmental Science at Queens College City of New York
@@ -15,6 +21,3 @@
 - Language: SQL, Python, Excel
 - Database: Google BigQuery, PostgreSQL, MySQL
 - Visualization: Tableau
-  
-### 👋🏻 Connect with Me
-- [Linkedin](https://www.linkedin.com/in/noah-quezada-20425231a/)
