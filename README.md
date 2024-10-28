@@ -1,6 +1,5 @@
 # Hello, I'm Noah Quezada
 :computer: Aspiring Data Analyst
-
 **Website:**  
 <a href="https://medium.com/@noahquezadaags" target="_blank">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" 
